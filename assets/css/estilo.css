@@ -22,8 +22,6 @@ header {
     text-align: end;
 }
 
-
-
 .titulo2 {
     padding-top: 0;
     font-family: 'Raleway', sans-serif;
@@ -34,14 +32,16 @@ header {
 .titulo3 {
     padding-top: 3;
     font-family: 'Raleway', sans-serif;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
+    font-weight: bold;
 }
 
 .titulo4 {
     padding-top: 3;
     font-family: 'Raleway', sans-serif;
-    font-size: 25px;
+    font-size: 16px;
+    font-weight: revert;
     text-align: center;
 }
 
