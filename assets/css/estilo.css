@@ -67,10 +67,15 @@ header {
     padding-bottom: 40px;
 }
 
-footer {
-    padding-top: 30px;
-    background-color: black;
-    color: aliceblue;
+.fut {
+    margin-top: 26px;
     text-align: center;
-    padding-bottom: 50px;
+    margin-left: 21px;
+    color: #FFFFFF;
+    margin-bottom: 22px;
+}
+
+.card-img-top {
+    height: 237px;
+    object-fit: cover;
 }
