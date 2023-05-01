@@ -1,0 +1,30 @@
+.nav_txt{
+    text-align: left;
+    font: normal normal normal 20px/24px Raleway;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-right: 34,5px!important;
+}
+
+header {
+    background-image: url("../img/bg-hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-bottom: 100px;
+}
+
+.titulo1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+    text-align: end;
+}
+
+.titulo2 {
+    padding-top: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-align: end;
+}
