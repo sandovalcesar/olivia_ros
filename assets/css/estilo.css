@@ -14,18 +14,31 @@ header {
     background-size: cover;
     color: white;
     padding-bottom: 100px;
+    background-color: black;!important;
+}
+
+
+footer{
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding-bottom: 14px;
+    padding-top: 16px;
+    margin-top: 30px;
 }
 
 .titulo1 {
     font-family: 'Raleway', sans-serif;
     font-size: 70px;
+    font-weight: bold;
     text-align: end;
 }
 
 .titulo2 {
     padding-top: 0;
     font-family: 'Raleway', sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     text-align: end;
 }
 
@@ -59,6 +72,18 @@ header {
     text-align: center;
 }
 
+.txt_form_1{
+    font-family: 'Relaway', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.txt_form_2{
+    font-family: 'Relaway', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
 .centrado {
     text-align: center;
 }
@@ -75,11 +100,9 @@ header {
 }
 
 .fut {
-    margin-top: 26px;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
-    margin-left: 21px;
     color: #FFFFFF;
-    margin-bottom: 22px;
 }
 
 .card-img-top {
@@ -88,4 +111,11 @@ header {
 }
 .medium_m{
     font-size: 42px;
+}
+
+.enviar{
+    background-color: #17A2B8!important;
+    color: white!important;
+    font-weight: lighter!important;
+    font-weight: ;
 }
